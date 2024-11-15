@@ -2,4 +2,4 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
 subject,fair,true
-location,,true
+location,fair,true
