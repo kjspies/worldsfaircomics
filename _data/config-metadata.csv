@@ -6,12 +6,10 @@ issue number,Issue
 description,Description,
 subject,Subjects,true
 location,Location,
-publisher_paper_or_syndicate,Publisher Syndicate or Paper,
 latitude,Latitude
 longitude,Longitude
 notes,Notes
 fair, Fair,
-grandcomicsdatabaserecordnumber,GCDB Record,
 source,Source
 identifier,Source Identifier,
 type,Type,
@@ -19,4 +17,3 @@ format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
 type_of_comic, Comic Format
-strippers_guide_reference, The Stripper's Guide Reference Link
