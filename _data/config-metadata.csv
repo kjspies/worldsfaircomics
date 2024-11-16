@@ -5,6 +5,7 @@ creator,Creator,
 date,Date,
 issue number,Issue
 description,Description,
+type_of_comic, Comic Format
 subject,Subjects,true
 location,Location,
 latitude,Latitude
@@ -18,4 +19,3 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-type_of_comic, Comic Format
