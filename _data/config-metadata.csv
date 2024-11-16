@@ -8,6 +8,8 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 notes,Notes
+fair, Fair
+grandcomicsdatabaserecord, GCDB Record
 source,Source
 identifier,Source Identifier,,
 type,Type,
