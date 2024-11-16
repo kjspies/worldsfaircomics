@@ -9,6 +9,7 @@ location,Location,
 latitude,Latitude
 longitude,Longitude
 notes,Notes
+strippersguidelink,strippersguide
 fair, Fair,
 publisher_syndicate,Publisher or Syndicate,
 gcdbrecordnumber,GCDB Record,
