@@ -1,18 +1,22 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-date,Date Created,
+date,Date,
+issue number, Issue
 description,Description,
 subject,Subjects,true
 location,Location
+publisher_paper_or_syndicate, Publisher or Syndicate or Paper
 latitude,Latitude
 longitude,Longitude
 notes,Notes
 fair, Fair
-grandcomicsdatabaserecord, GCDB Record
+grandcomicsdatabaserecordnumber, GCDB Record
 source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+type_of_comic, Comic Format
+strippers_guide_reference, The Stripper's Guide Reference Link
