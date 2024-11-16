@@ -10,6 +10,9 @@ latitude,Latitude
 longitude,Longitude
 notes,Notes
 fair, Fair,
+publisher_paper_or_syndicate,Publisher or Syndicate,
+grandcomicsdatabaserecordnumber,GCDB Record,
+strippers_guide_reference,Stripper's Guide 
 source,Source
 identifier,Source Identifier,
 type,Type,
