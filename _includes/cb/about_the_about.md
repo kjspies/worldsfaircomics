@@ -8,7 +8,7 @@
 {% capture audiosampleid %}{{audiosample.objectid | default: "https://www.lib.uidaho.edu/digital/mp3s/Clouds.mp3"}}{% endcapture %}
 
 ## About the About Page
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A27ii9cIPGw?si=AXln-L1sSKYzk-2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 We want to make engaging interpretive pages easier to create, so CollectionBuilder gives you tools to write *with* your collection content!
 
 The template comes with a customizable "About" page layout designed for long form content with rich media embeds.
