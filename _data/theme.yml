@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: https://static.wikia.nocookie.net/pdsh/images/7/71/Fantom_of_the_fair.jpg/revision/latest?cb=20130219200905
+featured-image: https://comicsarcheology.com/wp-content/uploads/2023/10/image001-NYWF1.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
