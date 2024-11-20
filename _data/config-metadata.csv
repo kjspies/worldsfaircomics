@@ -2,6 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,
 fair, Fair,
 creator,Creator,
+publisher_syndicate, Syndicate or Paper or Publisher
 date,Date,
 issue number,Issue
 description,Description,
