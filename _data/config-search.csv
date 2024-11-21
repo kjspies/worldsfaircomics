@@ -5,3 +5,5 @@ creator,true,false
 notes,true,false
 subject,true,true
 location,true,false
+publisher_syndicate,true,false
+fair,true,true
