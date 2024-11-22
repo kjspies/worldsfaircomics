@@ -8,7 +8,7 @@ permalink: /locations.html
 cloud-fields: site.data.theme.locations-fields
 ---
 
-## Browse Locations
+## Browse World's Fairs
 
-Use this word cloud visualization to browse locations.
+Use this word cloud visualization to select and browse the World's Fairs represented in the objects of this collection.
 Word size is determined by frequency and all words link to a corresponding collection search.
