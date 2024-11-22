@@ -26,7 +26,6 @@ Comics and the World’s Fair Connection
 <p>The collection on this website is a selection of nearly a hundred years of cartoons and comics centralizing on the World’s Fair. Each of the cartoons and comics selected was set at a World’s Fair and was produced while that fair was relevant and was being held. Forty different examples were selected from a variety of different cartooning genres and venues. Each of these objects holds a particular significance, which is explained in the notes provided on each object’s page. There is also a page to search and browse based on keywords in provided notes, comic titles, creators, and subject matter. The subject matter of each object is the creators, features, and fair attractions central to the stories or gags in each magazine, strip, or editorial work. </p>
 <p> The purpose of this collection is to showcase the history of comics through the various World’s Fairs that have been featured in them. Some comics feature fairs that took place worldwide, but more than half of them are from the fairs in New York City, where much of the comic book industry was home. This collection will be a good tool for pop culture scholars, researchers, comic book historians, and the world’s fair aficionados. </p>
 
-- Image --> `{% raw %}{% include feature/image.html objectid="demo_001" width="75" %}{% endraw %}`
 
 {% include feature/image.html objectid=imagesampleid width="75" %}
 
