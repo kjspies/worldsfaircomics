@@ -1,7 +1,6 @@
 field,display_name
-objectid;objectid
 title,Title
+creator; creator
 date,Date
-description,Description
 subject,Subjects
 fair,Fair
