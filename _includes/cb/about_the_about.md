@@ -1,11 +1,4 @@
-{% assign imagesample = site.data[site.metadata] | where_exp: 'item','item.format contains "image"' | first %}
-{% capture imagesampleid %}{{imagesample.objectid | default: "https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg"}}{% endcapture %}
-{% assign pdfsample = site.data[site.metadata] | where_exp: 'item','item.format contains "pdf"' | first %}
-{% capture pdfsampleid %}{{pdfsample.objectid | default: "https://www.lib.uidaho.edu/collectionbuilder/demo-objects/uiext21768.pdf"}}{% endcapture %}
-{% assign videosample = site.data[site.metadata] | where_exp: 'item','item.format contains "video"' | first %}
-{% capture videosampleid %}{{videosample.objectid | default: "https://cdil.lib.uidaho.edu/storying-extinction/objects/trailcams/videos/ballcreek-cedarrub-birdonpath.mp4"}}{% endcapture %}
-{% assign audiosample = site.data[site.metadata] | where_exp: 'item','item.format contains "audio"' | first %}
-{% capture audiosampleid %}{{audiosample.objectid | default: "https://www.lib.uidaho.edu/digital/mp3s/Clouds.mp3"}}{% endcapture %}
+
 
 ## What's A World’s Fair Anyways??
 <P> During the prime of the international World's Fair, the expositions were hubs for international connectivity, cultural revolution, industrialization, and entertainment. What was introduced at a World’s Fair would become news around the world and Americans were fascinated by new ideas and technologies that would become a part of everyday life. Some expositions were thematically based upon technology and industrialization in fields such as agriculture and environmentalism. Others were commemorating a celebration such as the fairs held in Jamestown in 1907 and St. Louis in 1904. </p>
@@ -26,7 +19,6 @@ Comics and the World’s Fair Connection
 <p>The collection on this website is a selection of nearly a hundred years of cartoons and comics centralizing on the World’s Fair. Each of the cartoons and comics selected was set at a World’s Fair and was produced while that fair was relevant and was being held. Forty different examples were selected from a variety of different cartooning genres and venues. Each of these objects holds a particular significance, which is explained in the notes provided on each object’s page. There is also a page to search and browse based on keywords in provided notes, comic titles, creators, and subject matter. The subject matter of each object is the creators, features, and fair attractions central to the stories or gags in each magazine, strip, or editorial work. </p>
 <p> The purpose of this collection is to showcase the history of comics through the various World’s Fairs that have been featured in them. Some comics feature fairs that took place worldwide, but more than half of them are from the fairs in New York City, where much of the comic book industry was home. This collection will be a good tool for pop culture scholars, researchers, comic book historians, and the world’s fair aficionados. </p>
 
-- Image --> `{% raw %}{% include feature/image.html objectid="demo_001" width="75" %}{% endraw %}`
 
 {% include feature/image.html objectid=imagesampleid width="75" %}
 
