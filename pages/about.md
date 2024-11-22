@@ -3,14 +3,8 @@ title: About
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
-credits: true
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
 
-
-
-
-## What's A World’s Fair Anyways??
+## What's A World’s Fair Anyways?
 <P> During the prime of the international World's Fair, the expositions were hubs for international connectivity, cultural revolution, industrialization, and entertainment. What was introduced at a World’s Fair would become news around the world and Americans were fascinated by new ideas and technologies that would become a part of everyday life. Some expositions were thematically based upon technology and industrialization in fields such as agriculture and environmentalism. Others were commemorating a celebration such as the fairs held in Jamestown in 1907 and St. Louis in 1904. </p>
 
 
@@ -48,3 +42,12 @@ For his help on additional notes to early comic strip connections to the fair an
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
+
+
+
+credits: true
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
+
+
+
