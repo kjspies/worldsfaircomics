@@ -30,17 +30,9 @@ Comics and the World’s Fair Connection
 
 {% include feature/image.html objectid=imagesampleid width="75" %}
 
-#### Include a PDF
-
-- PDF -- > `{% raw %}{% include feature/pdf.html objectid="demo_002"  width="50" %}{% endraw %}`
-
-{% include feature/pdf.html objectid=pdfsampleid width="50" %}
-
-
-
 #### Thanks to---
 
-## Bill Cotter
+### Bill Cotter
 For his incredible world's fair knowledge and notes on World's Fair attractions.
 ### Alberto Becattini
 For helping with the selection process
