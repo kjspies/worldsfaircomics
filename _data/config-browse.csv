@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-fair, Fair
+fair, Fair, true
 creator,Creator,,,
 subject,Attractions and Features,true
