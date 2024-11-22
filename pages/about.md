@@ -37,7 +37,7 @@ Comics and the World’s Fair Connection
 <p>Like the World’s Fair in 1939, other world’s fairs would be portrayed in comics as relevant to American or world society. Back in New York again, the World’s Fair in 1964 would also have many comics based on its events. Set in New York City, the Marvel Universe would continue to use its remnants well after the fair had ended. Archie Comics and the Flintstones would both also have an incredible history with the World's Fair. </p>
 {% include feature/image.html objectid="objects/flintstonesfair.jpg" width="75" %}
 <p> The World’s Fair is a very important factor in understanding the history of comics. This CollectionBuilder digital library allows researchers to see how important the World’s Fair was in comic history, and it will allow fair enthusiasts to see the history of the fair from a different perspective. </p>
-{% include feature/image.html objectid="objects/wfend.jpg" width="75" %}
+{% include feature/image.html objectid="objects/ex70v.jpg" width="75" %}
 
 
 
@@ -46,7 +46,6 @@ Comics and the World’s Fair Connection
 <p> The purpose of this collection is to showcase the history of comics through the various World’s Fairs that have been featured in them. Some comics feature fairs that took place worldwide, but more than half of them are from the fairs in New York City, where much of the comic book industry was home. This collection will be a good tool for pop culture scholars, researchers, comic book historians, and the world’s fair aficionados. </p>
 
 
-{% include feature/image.html objectid=imagesampleid width="75" %}
 
 #### Thanks to---
 
@@ -54,6 +53,8 @@ Comics and the World’s Fair Connection
 For his incredible world's fair knowledge and notes on World's Fair attractions.
 ### Alberto Becattini
 For helping with the selection process
-
 ### Alan Holtz
 For his help on additional notes to early comic strip connections to the fair and for allowing the usage of his comic strip history blog.
+
+{% include feature/image.html objectid="objects/wfend.jpg" width="75" %}
+
